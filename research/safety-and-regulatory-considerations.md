@@ -4,8 +4,6 @@
 **Document purpose:** To identify key safety risks and outline the evidence and regulatory questions that would need to be addressed before Dermasense could be considered for use as a wound dressing.  
 **Current evidence status:** No validated Dermasense prototype, completed biocompatibility assessment, clinical evidence, product classification, or regulatory approval has been established.
 
-> **Important:** Dermasense is not a finished medical product. Nothing in this document establishes that the proposed materials, indicator, layer design, or finished dressing is safe for skin or wound contact. Do not test the concept on people or use it on a wound. This document is educational project planning, not regulatory or medical advice.
-
 ## 1. Safety Position
 
 Dermasense is being explored as a hydrogel dressing concept with a pH-responsive colour-indicator layer. The proposed signal is a change in local fluid pH. Such a change is not, by itself, proof of infection and cannot identify a pathogen, quantify bacterial load, or replace professional wound assessment.
