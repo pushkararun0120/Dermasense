@@ -137,11 +137,10 @@ Dermasense-Smart-Wound-Patch/
 │   ├── literature-review.md
 │   ├── problem-sizing.md
 │   └── references.md
-├── assets/
-│   ├── design-process/
-│   └── product-concept/
-└── source-material/
-    └── DTM-Final-Presentation.pdf
+└──assets/
+   ├── design-process/
+   └── product-concept/
+
 ```
 
 This is the intended structure; files and images will be added as they are prepared. The original presentation can be kept as source material, while the research documents should explain the evidence and decisions in a more readable form.
