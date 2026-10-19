@@ -158,4 +158,4 @@ These papers provide background for the proposed design; they do not validate De
 
 ---
 
-**Project type:** Academic product-design and research project · **Team:** 9
+**Project type:** Academic product-design and research project
