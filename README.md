@@ -133,10 +133,11 @@ Dermasense-Smart-Wound-Patch/
 │   ├── product-concept.md
 │   ├── design-process.md
 │   └── business-model-canvas.md
-├── research/
-│   ├── literature-review.md
-│   ├── problem-sizing.md
-│   └── references.md
+research/
+├── literature-review.md
+├── materials-and-ph-indicators.md
+├── problem-sizing.md
+└── references.md
 └──assets/
    ├── design-process/
    └── product-concept/
