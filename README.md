@@ -128,20 +128,31 @@ The repository is intended to hold project documentation and research rather tha
 ```text
 Dermasense-Smart-Wound-Patch/
 ├── README.md
+│
 ├── docs/
 │   ├── project-overview.md
 │   ├── product-concept.md
 │   ├── design-process.md
 │   └── business-model-canvas.md
-research/
-├── literature-review.md
-├── materials-and-ph-indicators.md
-├── problem-sizing.md
-└── references.md
-└──assets/
-   ├── design-process/
-   └── product-concept/
-
+│
+├── research/
+│   ├── literature-review.md
+│   ├── materials-and-ph-indicators.md
+│   ├── problem-sizing.md
+│   ├── references.md
+│   ├── testing-and-validation-plan.md
+│   └── safety-and-regulatory-considerations.md
+│
+└── assets/
+    ├── design-process/
+    │   ├── brainstorming/
+    │   └── mind-mapping/
+    │
+    ├── product-concept/
+    │
+    ├── business-model/
+    │
+    └── problem-sizing/
 ```
 
 This is the intended structure; files and images will be added as they are prepared. The original presentation can be kept as source material, while the research documents should explain the evidence and decisions in a more readable form.
