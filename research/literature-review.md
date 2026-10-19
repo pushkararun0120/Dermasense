@@ -180,8 +180,6 @@ Research on hydrogel dressings supports investigating their potential as wound-d
 
 Dermasense builds on these research directions by proposing a visual sensing function without electronic components. Its feasibility will depend on the selected formulation, reliable colour response, indicator retention, physical performance, and safety evaluation.
 
-The next step is to use the published research to guide material selection and controlled testing, without assuming that results from existing formulations automatically apply to Dermasense.
-
 ## 11. References
 
 1. Power, G., Moore, Z., & O'Connor, T. (2017). Measurement of pH, exudate composition and temperature in wound healing: A systematic review. *Journal of Wound Care, 26*(7), 381–397. https://doi.org/10.12968/jowc.2017.26.7.381

@@ -236,5 +236,3 @@ Further material selection, prototype development, laboratory testing, and safet
 The design process for Dermasense begins with a wound-monitoring problem and develops a proposed solution based on hydrogel materials and a pH-responsive colour indicator.
 
 The process identifies the main functional components, explores candidate materials, highlights technical challenges, and defines a path for further evaluation.
-
-The next stage is to test candidate materials under controlled conditions and use the findings to refine the patch design. Any future claims about wound monitoring, safety, or clinical usefulness must be supported by appropriate evidence.

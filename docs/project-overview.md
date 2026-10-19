@@ -155,5 +155,3 @@ The next priority is to organize the supporting scientific references and develo
 Dermasense explores the possibility of combining a hydrogel wound dressing with a pH-responsive colour indicator to make changes in wound-fluid pH visible without electronics.
 
 The concept offers a direction for investigating simple visual wound monitoring, but significant material, safety, performance, and clinical questions remain.
-
-Further development will depend on reliable research, controlled laboratory testing, and evidence that supports the intended use. Until that evidence is available, Dermasense should be treated as an academic product concept rather than a clinically validated wound-monitoring device.
