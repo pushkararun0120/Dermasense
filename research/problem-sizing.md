@@ -74,22 +74,21 @@ Combining the affected user segment, post-operative monitoring frequency, and pe
 
 ### Problem Sizing Formula
 
-$$\text{Annual Problem Size} = \text{User Segment (\# Users)} \times \text{Frequency (\# Times/User)} \times \text{Severity (₹/Time)}$$
+**Annual Problem Size** = (User Segment: Number of Users) × (Frequency: Number of Visits/User) × (Severity: Cost/Time)
 
 ### Core Quantitative Inputs
 
 - **Annual Patient & Monitoring Volume:**
-  $$\text{1 crore surgery patients annually} \times \text{2 hospital visits per patient} = \text{2 crore post-surgical wound-check visits annually}$$
+  - 1 crore surgery patients annually × 2 hospital visits per patient = **2 crore post-surgical wound-check visits annually**
 
 - **Per-Incident Financial Burden:**
-  $$\text{₹20,000 to ₹30,000 per post-operative infection incident}$$
+  - **₹20,000 to ₹30,000** per post-operative infection incident
 
 - **Canvas Baseline Representation:**
-  - **User & Visit Scale:** 1 crore surgery patients $\times$ 2 hospital visits
+  - **User & Visit Scale:** 1 crore surgery patients × 2 hospital visits
   - **Incident Cost Scale:** ₹20,000 to ₹30,000 per incident (with a baseline benchmark of ₹20,000 per incident)
 
 This calculation highlights a massive dual burden across the Indian healthcare system: **2 crore annual outpatient hospital visits** dedicated to routine post-surgical wound checks, alongside a severe financial penalty of **₹20,000 to ₹30,000 per infection incident** whenever complications are caught too late.
-
 ---
 
 ## 7. Market Evolution: Boosters (PESTEL Trends)
