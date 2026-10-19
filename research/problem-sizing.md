@@ -88,7 +88,7 @@ Combining the affected user segment, post-operative monitoring frequency, and pe
   - **User & Visit Scale:** 1 crore surgery patients × 2 hospital visits
   - **Incident Cost Scale:** ₹20,000 to ₹30,000 per incident (with a baseline benchmark of ₹20,000 per incident)
 
-This calculation highlights a massive dual burden across the Indian healthcare system: 2 crore annual outpatient hospital visits dedicated to routine post-surgical wound checks, alongside a severe financial penalty of ₹20,000 to ₹30,000 per infection incident whenever complications are caught too late.
+This calculation highlights a massive dual burden across the Indian healthcare system: **2 crore annual outpatient hospital visits** dedicated to routine post-surgical wound checks, alongside a severe financial penalty of **₹20,000 to ₹30,000 per infection incident** whenever complications are caught too late.
 
 ---
 
