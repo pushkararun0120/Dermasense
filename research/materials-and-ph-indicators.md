@@ -314,7 +314,3 @@ Accessed 19 October 2026. The references below are starting points for the resea
 11. **U.S. Food and Drug Administration (FDA). "Biocompatibility Assessment Resource Center."** General information on biological evaluation of medical devices and risk-based use of ISO 10993-1. It is a US resource and does not replace applicable Indian requirements. [FDA resource](https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/biocompatibility-assessment-resource-center).
 
 12. **Central Drugs Standard Control Organisation (CDSCO), Government of India. "Medical Devices Rules."** Official Indian regulatory information. Check the current rules and device-specific classification against the final intended purpose. [CDSCO Medical Devices Rules page](https://cdsco.gov.in/opencms/opencms/en/Acts-and-rules/Medical-Devices-Rules) and [Medical Device & Diagnostics overview](https://www.cdsco.gov.in/opencms/opencms/en/Medical-Device-Diagnostics/Medical-Device-Diagnostics/).
-
----
-
-**Document maintenance note:** Add new references only after checking the actual paper or official source. For each study, record the material composition, indicator, test conditions, measured outcomes, and limitations. Do not transfer performance numbers from a published formulation to Dermasense unless the same formulation and conditions have been reproduced and verified.
